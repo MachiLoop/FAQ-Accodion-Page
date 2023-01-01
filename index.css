@@ -112,6 +112,11 @@ body {
   font-weight: bold;
 }
 
+.question-heading:hover {
+  color: hsl(14, 88%, 65%);
+  cursor: pointer;
+}
+
 @media (min-width: 900px) {
   .card-container {
     flex-direction: row;
